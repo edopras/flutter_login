@@ -17,7 +17,7 @@ class _RegisterpageState extends State<Registerpage>{
       appBar: AppBar(
         title: Padding(
           padding: const EdgeInsets.all(70.0),
-          child: Text("Register Area", style: TextStyle(color: Colors.black)),
+          child: Text("Register Area Edo", style: TextStyle(color: Colors.black)),
         ),
         backgroundColor: Colors.red[200],
       ),
